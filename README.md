@@ -45,9 +45,10 @@ gcc main.c -o pixel
 
 📂 Project Structure
 .
-├── main.c # all image operations inside one clean C file
-├── Makefile # builds the project, fast and neat
-└── README.md # the file that’s blessing your eyes rn
+├── main.c        # all image operations inside one clean C file
+├── Makefile      # builds the project, fast and neat
+└── README.md     # the file that’s blessing your eyes rn
+
 
 🧩 What You’ll Learn
 

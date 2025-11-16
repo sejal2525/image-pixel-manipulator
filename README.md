@@ -7,7 +7,7 @@ Even though the “image” is just a 4×4 matrix, the vibes are real —
 brightness boosts, negative filters, blur magic, and edge detection…
 all coded from scratch like a true warrior of the keyboard. ⚔️✨
 
-🚀 Features
+>Features
 
 ✨ Load Image — drops a sample 4×4 pixel grid into memory
 ✨ Display Image — prints those lil’ pixels clean and crisp
@@ -16,19 +16,19 @@ all coded from scratch like a true warrior of the keyboard. ⚔️✨
 ✨ Blur Effect — softens the pixels like Gaussian ASMR
 ✨ Edge Detection — highlights boundaries like a sketch filter
 
-🧠 Why This Exists
+>Why This Exists
 
-This project is the perfect starter for understanding:
+-This project is the perfect starter for understanding:
 
-how images can be represented as matrices
+=how images can be represented as matrices
 
-how pixel operations work under the hood
+-how pixel operations work under the hood
 
-how filters like blur and edge detection are actually implemented
+-how filters like blur and edge detection are actually implemented
 
-how low-level manipulation feels without fancy libraries
+-how low-level manipulation feels without fancy libraries
 
-It’s small, but it hits like a concept bomb 💥
+It’s small, but it hits like a concept bomb i know-
 Great for beginners, students, or anyone who wants to flex their fundamentals.
 
 🛠️ How to Build
@@ -52,7 +52,7 @@ gcc main.c -o pixel
 </pre>
 
 
-🧩 What You’ll Learn
+What You’ll Learn:
 
 array indexing like a beast
 
@@ -64,7 +64,7 @@ safe pixel clamping
 
 structured C programming
 
-🤝 Contributions
+Contributions
 
 If you wanna add more filters — sharpening, embossing, thresholding —
 pull up, bro. PRs are always welcome. 💫

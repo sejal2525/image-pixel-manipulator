@@ -44,11 +44,12 @@ gcc main.c -o pixel
 ./pixel
 
 📂 Project Structure
+<pre>
 .
 ├── main.c        # all image operations inside one clean C file
 ├── Makefile      # builds the project, fast and neat
 └── README.md     # this masterpiece you're reading
-
+</pre>
 
 
 🧩 What You’ll Learn

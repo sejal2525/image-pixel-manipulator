@@ -47,7 +47,8 @@ gcc main.c -o pixel
 .
 ├── main.c        # all image operations inside one clean C file
 ├── Makefile      # builds the project, fast and neat
-└── README.md     # the file that’s blessing your eyes rn
+└── README.md     # this masterpiece you're reading
+
 
 
 🧩 What You’ll Learn

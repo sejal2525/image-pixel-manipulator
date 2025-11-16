@@ -1,2 +1,12 @@
-# image-pixel-manipulator
-Image Pixel Manipulator written in C — implements core image-processing operations including brightness adjustment, negative filter, blurring, and edge detection using simple matrix computations. Great starter project for understanding basic image processing algorithms
+# Image Pixel Manipulator
+A simple C program demonstrating pixel operations:
+- Brightness
+- Negative
+- Blur
+- Edge Detection
+
+## Build
+```
+gcc main.c -o pixel
+./pixel
+```
